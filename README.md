@@ -1,7 +1,9 @@
 ## Olá! Eu sou o Kayky Marinho
 
 - ⚙  Atualmente Trabalho como Estagiário de TI na área de Planejamento de Projetos
-  -  Tenho experiência em armazenamento em nuvem
+⭐ Tenho experiência:
+  -  Armazenamento em nuvem(Google Drive)
+  -  Gsuite
   -  Servidores
   -  Configurações de E-mails
   -  Manutenção de Computadores e Notebooks
