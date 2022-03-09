@@ -10,8 +10,8 @@
   -  Power BI
   - Documentação de Projetos
 
-- 💻 Tenho conhecimento em: HTML,CSS,JavaScript
-- 🌱 Atualmente estou estudando: C,C++,Python,SQL
+- 💻 Tenho conhecimento em: HTML,CSS,JavaScript, C e C++
+- 🌱 Atualmente estou estudando: Python,SQL
 
 <!-- Sobre o Perfil-->
 <div align="center">
