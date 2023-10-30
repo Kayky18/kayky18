@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Kayky Marinho
 
-- ⚙  Atualmente Trabalho como Tecnico de TI na área de Redes e Segurança da Informação
+- ⚙  Atualmente Trabalho como Técnico de TI na área de Redes e Segurança da Informação
 ⭐ Tenho experiência:
   -  Armazenamento em nuvem(Google Drive)
   -  Gsuite
