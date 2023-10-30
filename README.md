@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Kayky Marinho
 
-- ⚙  Atualmente Trabalho como Estagiário de TI na área de Planejamento de Projetos
+- ⚙  Atualmente Trabalho como Tecnico de TI na área de Redes e Segurança da Informação
 ⭐ Tenho experiência:
   -  Armazenamento em nuvem(Google Drive)
   -  Gsuite
@@ -10,8 +10,8 @@
   -  Power BI
   - Documentação de Projetos
 
-- 💻 Tenho conhecimento em: HTML,CSS,JavaScript, C e C++
-- 🌱 Atualmente estou estudando: Python,SQL
+- 💻 Tenho conhecimento em: HTML, CSS, JavaScript, C, C++, Python, SQL
+- 🌱 Atualmente estou estudando: Automação de Processos e Analise de dados com python.
 
 <!-- Sobre o Perfil-->
 <div align="center">
