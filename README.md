@@ -9,9 +9,12 @@
   -  Manutenção de Computadores e Notebooks
   -  Power BI
   - Documentação de Projetos
+  - Office 365
+  - AWS
+  - GCP
 
-- 💻 Tenho conhecimento em: HTML, CSS, JavaScript, C, C++, Python, SQL
-- 🌱 Atualmente estou estudando: Automação de Processos e Analise de dados com python.
+- 💻 Tenho conhecimento em: HTML, CSS, JavaScript, C, C++, Python, SQL, Golang
+- 🌱 Atualmente estou estudando: APIs em Golang,
 
 <!-- Sobre o Perfil-->
 <div align="center">
