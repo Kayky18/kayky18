@@ -38,6 +38,7 @@ Formação técnica em Informática para Internet.
   <img align="center" alt="kayky-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="kayky-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="kayky-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="kayky-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/golang-original.svg">
   <img align="center" alt="kayky-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="kayky-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="kayky-pic" height="150" style="border-radius:100px" src="https://media-exp1.licdn.com/dms/image/C4D03AQFQjZzTV9_JUQ/profile-displayphoto-shrink_200_200/0/1611682913092?e=1643241600&v=beta&t=gU_0ZBUDb7snEGvj7p_fpusNF1bfp825LuAgwJ-t1Ok">
