@@ -1,20 +1,30 @@
 ## Olá! Eu sou o Kayky Marinho
 
-- ⚙  Atualmente Trabalho como Técnico de TI na área de Redes e Segurança da Informação
-⭐ Tenho experiência:
-  -  Armazenamento em nuvem(Google Drive)
-  -  Gsuite
-  -  Servidores
-  -  Configurações de E-mails
-  -  Manutenção de Computadores e Notebooks
-  -  Power BI
-  - Documentação de Projetos
-  - Office 365
-  - AWS
-  - GCP
+👨‍💻 Sobre Mim
+Formado em Análise e Desenvolvimento de Sistemas.
+Formação técnica em Informática para Internet.
 
-- 💻 Tenho conhecimento em: HTML, CSS, JavaScript, C, C++, Python, SQL, Golang
-- 🌱 Atualmente estou estudando: APIs em Golang,
+🛠️ Habilidades Técnicas
+- DevOps e Cloud Computing: Docker, Kubernetes, CI/CD, Terraform, Ansible.
+- Cloud Providers: AWS, GCP, Azure.
+- Cloud: AWS (Amazon Web Services), GCP(Google Cloud Platform), Azure
+- Banco de Dados: SQL, MySQL, PostgreSQL
+- Conhecimento em HTML, CSS
+- Administração de redes LAN/WAN, configuração de Mikrotik e Ubiquiti.
+- Experiência com Active Directory.
+- Experiência com sistemas operacionais Linux e Windows.
+
+- Administração de Redes: Equipamentos Mikrotik e Ubiquiti.
+- Segurança da Informação: Configuração de redes e gestão de identidade com Azure Entra ID.
+
+💻 Experiência em Automação
+- Automação de tarefas com Python e Golang.
+- Configuração e manutenção de servidores, hardware e software.
+
+🔧 Suporte Técnico
+- Atendimento ao cliente, suporte técnico avançado.
+- Visitas técnicas para configuração e manutenção de redes.
+
 
 <!-- Sobre o Perfil-->
 <div align="center">
