@@ -24,14 +24,6 @@ Formação técnica em Informática para Internet.
 🔧 Suporte Técnico
 - Atendimento ao cliente, suporte técnico avançado.
 - Visitas técnicas para configuração e manutenção de redes.
-
-
-<!-- Sobre o Perfil-->
-<div align="center">
-  <a href="https://github.com/kayky18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kayky18&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayky18&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
  <!-- Linguagens -->
 <div style="display: inline_block"><br>
